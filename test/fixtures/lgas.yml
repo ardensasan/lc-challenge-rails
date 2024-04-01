@@ -1,0 +1,27 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  gid: 1
+  pfi: MyString
+  \lga_code: MyString
+  lga_name: MyString
+  gaz_lga: MyString
+  gazregn: MyString
+  abslgacode: MyString
+  pfi_cr: 2024-04-01
+  ufi: 
+  ufi_cr: 2024-04-01
+  ufi_old: 
+
+two:
+  gid: 1
+  pfi: MyString
+  \lga_code: MyString
+  lga_name: MyString
+  gaz_lga: MyString
+  gazregn: MyString
+  abslgacode: MyString
+  pfi_cr: 2024-04-01
+  ufi: 
+  ufi_cr: 2024-04-01
+  ufi_old: 
